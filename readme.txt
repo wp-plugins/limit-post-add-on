@@ -3,7 +3,7 @@ Contributors: Doc4
 Donate link: http://www.doc4design.com/donate
 Tags: limit post, limit text, limit copy, copy, post
 Requires at least: 1.5
-Tested up to: 2.9.1
+Tested up to: 3.1
 Stable tag: 1.0
 
 
