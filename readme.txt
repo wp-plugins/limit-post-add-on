@@ -3,7 +3,7 @@ Contributors: Doc4
 Donate link: http://www.doc4design.com/donate
 Tags: limit post, limit text, limit copy, copy, post
 Requires at least: 1.5
-Tested up to: 3.1
+Tested up to: 3.5
 Stable tag: 1.0
 
 
@@ -12,9 +12,9 @@ Stable tag: 1.0
 = Plugin URL =
 http://www.doc4design.com/plugins/limit-post/
 
-"Limit-Post" is one of the better WordPress post content limiters we have come across both in terms of usability and size. Developed by labitacora.net "Limit-Post" provides excellent control over the post character-length and even adds the ability to create "read more ..." link with a single line of code.
+Limit-Post is one of the better WordPress post content limiters we have come across, both in terms of usability and size. Developed by labitacora.net Limit-Post provides excellent control over the post character-length and even adds the ability to create a "read more ..." link with a single line of code.
 
-With the "Limit Post Add-On" we have expanded the original plugin to include WordPress' get_the_content tag in order to limit post copy with stripped html tags.
+With "Limit Post Add-On" we have expanded on the original plugin to include WordPress' get_the_content tag in order to limit post copy with stripped html tags.
 
 
 == Screenshots ==
