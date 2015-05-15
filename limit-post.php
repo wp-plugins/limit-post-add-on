@@ -3,7 +3,7 @@
 Plugin Name: Limit Post Add-On
 Plugin URI: http://www.doc4design.com/plugins/limit-post/
 Description: Limits the displayed text length with both the_content_limit and get_the_content_limit
-Version: 1.0
+Version: 1.1
 Author: Doc4, Alfonso Sanchez-Paus Diaz, Julian Simon de Castro
 Author URI: http://www.doc4design.com
 */
